@@ -10,10 +10,9 @@
 	<h1><u>WELCOME TO MY WEBSITE
 	<h2><font color="red"><u>FIGHTING !!!
 	<hr>
-	<hr3>AYO BELAJAR TENTANG MUSIM DI INDONESIA</H3>
+	<hr3>AYO BELAJAR TENTANG MUSIM DI INDONESIA
 	<img src="musim diindonesia.jpg" width="275px" height="183px" align="left">
-	<br></br>
-	<br></br>
+	
 	<h2>Taukah Kamu, Gambar apa itu?</h2>
 	<h4><p align="justify"><i>Gambar itu adalah gambaran atau ilustrasi tentang musim yang ada di indonesia. Indonesia memiliki iklim tropis dimana iklim tersebut meliputi Musim Hujan dan Musim Kemarau. 
 	<h5><p align="justify"><i>Di Indonesia, musim kemarau terjadi karena pengaruh angin muson yang bertiup dari Benua Australia. Musim kemarau biasanya berlangsung dari bulan April hingga September. Selama musim kemarau, cuaca cenderung panas dan terik, yang dapat menyebabkan kekeringan dan berdampak pada kurangnya sumber air bersih serta kematian tanaman. Musim kemarau dipengaruhi oleh sistem muson, di mana angin muson timur membawa hawa panas dari gurun Australia, yang kemudian bergerak melewati Indonesia sehingga wilayah Nusantara mengalami musim kemarau. Dampak dari musim kemarau antara lain kurangnya sumber air bersih, kematian tanaman akibat kekeringan, dan peningkatan polusi. Musim kemarau juga dapat memicu kebakaran padang rumput yang meluas dan mengancam ekosistem yang ada
