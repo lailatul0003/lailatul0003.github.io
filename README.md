@@ -8,7 +8,7 @@
 	<hr><p align="center">| LAILATUL MASRIFA|GEOGRAFI  |
 	<hr></p>
 	<h1><u>WELCOME TO MY WEBSITE</h2></u>
-	<h2><font color="red"><u>FIGHTING !!!</font><h2></u>
+	<h2><font color="red"><u>FIGHTING !!!
 	<hr>
 	<hr3>AYO BELAJAR TENTANG MUSIM DI INDONESIA</H3>
 	<img src="musim diindonesia.jpg" width="275px" height="183px" align="left">
