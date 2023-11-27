@@ -7,7 +7,7 @@
 	<hr>
 	<hr><p align="center">| LAILATUL MASRIFA|GEOGRAFI  |
 	<hr></p>
-	<h1><u>WELCOME TO MY WEBSITE</h2></u>
+	<h1><u>WELCOME TO MY WEBSITE
 	<h2><font color="red"><u>FIGHTING !!!
 	<hr>
 	<hr3>AYO BELAJAR TENTANG MUSIM DI INDONESIA</H3>
